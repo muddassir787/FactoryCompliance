@@ -1,4 +1,3 @@
-# FactoryCompliance
 # Factory Compliance & Alert Escalation System
 
 ## Overview
@@ -81,7 +80,7 @@ Streamlit Dashboard
 FactoryCompliance/
 
 ├── data/
-│   ├── videos/
+│   └── videos/
 │ 
 │
 ├── database/
@@ -94,8 +93,8 @@ FactoryCompliance/
 ├── src/
 │   ├── detection/
 │   │   ├── video_reader.py
-│   │   ├── person_detector.py
-│   │   └── walkway.py
+│   │   └── person_detector.py
+│   │    
 │   │
 │   ├── policy/
 │   │   └── rules.py
@@ -482,7 +481,7 @@ Future enhancements:
 
 # Author
 
-Muddassir Hussain
+Muhammad Muddassir Hussain
 
 BS Data Science
 
